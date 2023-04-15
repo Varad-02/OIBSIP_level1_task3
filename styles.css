@@ -1,0 +1,27 @@
+/* global styling */
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 120%;
+    font-family: Monospace;
+  }
+  /* title & instrucstions styling */
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  p {
+    text-align: center;
+  }
+  /* converter styling */
+  form {
+    width: 1000%;
+    height: 100vh;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
